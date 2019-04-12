@@ -1,0 +1,12 @@
+found player %s = Spieler %s gefunden
+apply command to all student players = Kommando auf alle Schüler anwenden
+list student player names = Namen der Schüler anzeigen
+grant privilege on student join = Privileg gewähren, wenn sich ein Schüler anmeldet
+revoke privilege on student join = Privileg entziehen, wenn sich ein Schüler anmeldet
+keep privilege on student join = Privilegstatus beibehalten, wenn sich ein Schüler anmeldet
+player can apply bulk commands targeted at students = Spieler kann Massenkommandos auf alle Schüler anwenden
+player is affected by bulk commands targeted at students = Spieler kann von Massenkommandos zur Spielerverwaltung betroffen werden
+reversibly teleport self or other players = Sich selbst oder andere Spieler umkehrbar teleportieren
+cannot find a player named %s = Kein Spieler mit dem Namen %s gefunden
+teleport to location before the last visitation command = An den Ort vor dem letzten visitation-Kommando teleportieren
+no previous position stored = Keine vorherige Position gespeichert
