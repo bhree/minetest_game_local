@@ -1,0 +1,8 @@
+default
+intllib?
+stairs?
+farming?
+wool?
+nssb?
+moreores?
+space?
